@@ -11,4 +11,4 @@ Frontend developer focused on building modern web apps.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Currently learning** — TypeScript · Next.js App Router
+**Currently learning** — TypeScript 
