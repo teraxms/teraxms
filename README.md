@@ -1,5 +1,4 @@
-### Hi there, I'm Tiron 👋
-
+### 
 Frontend developer focused on building modern web apps.
 
 **Tech stack**
