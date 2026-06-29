@@ -19,7 +19,7 @@ Frontend & Flutter Developer building modern web and mobile apps.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### Backend & Database
-![Supabase](https://shields.io)
+<img src="https://shields.io" alt="Supabase" />
 
 ---
 ### Operating Systems
