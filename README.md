@@ -18,9 +18,6 @@ Frontend & Flutter Developer building modern web and mobile apps.
 ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### Backend & Database
-<img src="https://shields.io" alt="Supabase" />
-
 ---
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
